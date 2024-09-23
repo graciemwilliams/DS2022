@@ -9,4 +9,3 @@ SUM=$(( $1 + $2 ))
 sleep 3
 
 echo "Your sum is: $SUM"
-

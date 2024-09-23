@@ -1,4 +1,3 @@
-practice [main]$ cat 03-cleaning/mock_data.tsv 
 id	first_name	last_name	email	ip_address	dob
 1	Evelyn	Brockhurst	ebrockhurst0@bing.com	40.101.189.143	04/02/1987
 2	Carmelina	Euler	ceuler1@washington.edu	82.222.180.187	10/17/1980

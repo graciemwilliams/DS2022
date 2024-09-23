@@ -2,7 +2,7 @@
 
 clear
 
-echo "-----------------------------"
+echo "-------------------------"
 
 read -p "Give me one number " NUM1
 
@@ -12,6 +12,5 @@ SUM=$(( $NUM1 + $NUM2 ))
 
 echo "The sum of these two numbers is $SUM"
 
-echo "-----------------------------"
-
+echo "-------------------------"
 
